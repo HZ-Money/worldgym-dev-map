@@ -1,4 +1,4 @@
-name: Auto-generate map
+name: Auto-generate map and homepage
 
 on:
   push:
@@ -24,14 +24,17 @@ jobs:
     - name: Install dependencies
       run: pip install folium gpxpy
 
-    - name: Generate Map
+    - name: Generate all maps (from generate_map.py)
       run: python scripts/generate_map.py
 
-    - name: Commit and Push Map
+    - name: Generate homepage
+      run: python generate_home.py
+
+    - name: Commit and Push
       run: |
         git config --global user.name "github-actions"
         git config --global user.email "actions@github.com"
         git add .
-        git commit -m "auto: 更新地圖" || echo "No changes to commit"
+        git commit -m "auto: 更新地圖與首頁" || echo "No changes to commit"
         git pull --rebase
         git push
