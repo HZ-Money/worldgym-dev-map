@@ -7,10 +7,10 @@ import json
 DEFAULT_CENTER = [25.0366, 121.4391]  # 民安路188巷5號
 DEFAULT_ZOOM = 16
 FIXED_MARKER = {
-    "name": "新莊門市",
-    "address": "新北市新莊區中華路一段40號1樓",
-    "lat": 25.0367,
-    "lng": 121.4431,
+    "name": "民安門市",
+    "address": "新北市新莊區民安路188巷5號",
+    "lat": 25.0366,
+    "lng": 121.4391,
     "emoji": "📍"
 }
 
@@ -24,14 +24,17 @@ def generate_map_for_folder(gpx_folder):
     print(f"📍 正在處理：{gpx_folder}")
     m = folium.Map(location=DEFAULT_CENTER, zoom_start=DEFAULT_ZOOM, control_scale=True)
 
-    # ⬅️ 返回首頁按鈕與標題
-    title_html = f'''
-         <h3 align="center" style="font-size:24px">🌍 WorldGym 開發地圖 - {gpx_folder}</h3>
-         <div style="text-align:center;margin-bottom:10px;">
-         <a href="../index.html"><button style="background-color:red;color:white;border:none;padding:5px 10px;border-radius:5px;">返回首頁</button></a>
-         </div>
+    # ⬅️ 返回首頁按鈕 + 標題（固定左上角）
+    header_html = f'''
+    <div style="position: fixed; top: 10px; left: 10px; z-index: 9999;
+                background-color: white; padding: 10px 14px; border-radius: 8px;
+                box-shadow: 0 2px 6px rgba(0,0,0,0.3); line-height: 1.6;">
+        <div><a href="../index.html" style="text-decoration:none;font-weight:bold;color:#d43f3a;">🔙 返回首頁</a></div>
+        <div style="font-size:16px; font-weight:bold;">🦍🌍 WorldGym HZ 每日開發地圖</div>
+        <div style="font-size:14px;">📅 月份：<b>{gpx_folder} 💰</b></div>
+    </div>
     '''
-    m.get_root().html.add_child(folium.Element(title_html))
+    m.get_root().html.add_child(folium.Element(header_html))
 
     # 🏪 商家圖層
     merchant_layer = folium.FeatureGroup(name='🏪 特約商家')
@@ -61,7 +64,7 @@ def generate_map_for_folder(gpx_folder):
         except Exception as e:
             print(f"❌ 商家載入失敗: {e}")
 
-    # 🏠 固定地點標記：新莊中華路一段40號
+    # 🏠 固定地點標記：民安門市
     folium.Marker(
         location=[FIXED_MARKER["lat"], FIXED_MARKER["lng"]],
         popup=f"{FIXED_MARKER['emoji']} {FIXED_MARKER['name']}<br>{FIXED_MARKER['address']}",
