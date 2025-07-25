@@ -14,13 +14,30 @@ html_head = '''<!DOCTYPE html>
     <meta charset="UTF-8">
     <title>WorldGym HZ 地圖首頁</title>
     <style>
-        body { font-family: "Segoe UI", sans-serif; padding: 40px; }
-        h1 { font-size: 26px; }
-        ul { list-style-type: none; padding-left: 0; }
-        li { margin: 10px 0; }
-        a { text-decoration: none; color: #1a73e8; font-size: 18px; }
-        a:hover { text-decoration: underline; }
-    </style>
+  body {
+    font-family: "Segoe UI", sans-serif;
+    padding: 40px;
+    text-align: center;
+  }
+  h1 {
+    font-size: 26px;
+  }
+  ul {
+    list-style-type: none;
+    padding-left: 0;
+  }
+  li {
+    margin: 10px 0;
+  }
+  a {
+    text-decoration: none;
+    color: #1a73e8;
+    font-size: 18px;
+  }
+  a:hover {
+    text-decoration: underline;
+  }
+</style>
 </head>
 <body>
     <h1>🦍🌍 WorldGym HZ 地圖首頁</h1>
