@@ -4,13 +4,13 @@ import folium
 import gpxpy
 import json
 
-DEFAULT_CENTER = [25.0366, 121.4391]  # 民安路188巷5號
+DEFAULT_CENTER = [25.023162, 121.4189235]  # 民安路188巷5號
 DEFAULT_ZOOM = 16
 FIXED_MARKER = {
-    "name": "民安門市",
+    "name": "WG HZ",
     "address": "新北市新莊區民安路188巷5號",
-    "lat": 25.0366,
-    "lng": 121.4391,
+    "lat": 25.023162,
+    "lng": 121.4189235,
     "emoji": "📍"
 }
 
@@ -64,7 +64,7 @@ def generate_map_for_folder(gpx_folder):
         except Exception as e:
             print(f"❌ 商家載入失敗: {e}")
 
-    # 🏠 固定地點標記：民安門市
+    # 🏠 固定地點標記：HZ門市
     folium.Marker(
         location=[FIXED_MARKER["lat"], FIXED_MARKER["lng"]],
         popup=f"{FIXED_MARKER['emoji']} {FIXED_MARKER['name']}<br>{FIXED_MARKER['address']}",
