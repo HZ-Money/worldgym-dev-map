@@ -1,0 +1,917 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.4178347,
+          25.0265985
+        ]
+      },
+      "properties": {
+        "name": "首都客運新莊一站",
+        "note": "Money",
+        "address": "新北市新莊區西盛里民安東路117號",
+        "emoji": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.4308306,
+          25.0192643
+        ]
+      },
+      "properties": {
+        "name": "蛋白盒子",
+        "note": "Money",
+        "address": "新北市新莊區西盛里新樹路244巷53弄8號",
+        "emoji": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.4246708,
+          25.0221667
+        ]
+      },
+      "properties": {
+        "name": "阿娘麵館",
+        "note": "Jenny",
+        "address": "新北市新莊區八德街70號",
+        "emoji": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.4245474,
+          25.0216599
+        ]
+      },
+      "properties": {
+        "name": "真鑽美而美早餐店",
+        "note": "Jenny",
+        "address": "新北市新莊區八德街87號",
+        "emoji": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.4241849,
+          25.0210536
+        ]
+      },
+      "properties": {
+        "name": "四維素食",
+        "note": "Jenny",
+        "address": "新北市新莊區八德街109號",
+        "emoji": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.4178347,
+          25.0265985
+        ]
+      },
+      "properties": {
+        "name": "老夫子蚵仔煎",
+        "note": "Jenny",
+        "address": "新北市新莊區德街129號",
+        "emoji": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.4231446,
+          25.0193737
+        ]
+      },
+      "properties": {
+        "name": "臻髮藝",
+        "note": "Jenny",
+        "address": "新北市新莊區八德街180號",
+        "emoji": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.4232046,
+          25.01936
+        ]
+      },
+      "properties": {
+        "name": "晨吉司漢肉排蛋土司",
+        "note": "Jenny",
+        "address": "新北市新莊區八德街182號",
+        "emoji": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.4270213,
+          25.0243842
+        ]
+      },
+      "properties": {
+        "name": "亞米/早餐/焗烤/義大利麵",
+        "note": "Jenny",
+        "address": "新北市新莊區建安街93號",
+        "emoji": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.427577,
+          25.0250826
+        ]
+      },
+      "properties": {
+        "name": "隴西洗衣連鎖",
+        "note": "Jenny",
+        "address": "新北市新莊區建安街40巷1號",
+        "emoji": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.4264533,
+          25.0246398
+        ]
+      },
+      "properties": {
+        "name": "永農平價商行",
+        "note": "Jenny",
+        "address": "新北市新莊區建安街62巷1弄12號",
+        "emoji": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.4259079,
+          25.0244324
+        ]
+      },
+      "properties": {
+        "name": "美日香小廚",
+        "note": "Jenny",
+        "address": "新北市新莊區建安街76巷1弄18號",
+        "emoji": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.4234442,
+          25.0223386
+        ]
+      },
+      "properties": {
+        "name": "131巷愛心麵線",
+        "note": "Jenny",
+        "address": "新北市新莊區四維路131巷14號",
+        "emoji": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.4256214,
+          25.0213833
+        ]
+      },
+      "properties": {
+        "name": "子軒素食麵線 十穀粥",
+        "note": "Jenny",
+        "address": "新北市新莊區成功街23號",
+        "emoji": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.6380755,
+          25.0689106
+        ]
+      },
+      "properties": {
+        "name": "柯達全憶店",
+        "note": "Jenny",
+        "address": "新北市新莊區德港一路70號",
+        "emoji": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.4221558,
+          25.0244424
+        ]
+      },
+      "properties": {
+        "name": "蛙仔窟鐵道弁當",
+        "note": "Daby",
+        "address": "新北市新莊區萬安街47巷",
+        "emoji": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.4208979,
+          25.0227031
+        ]
+      },
+      "properties": {
+        "name": "萬安傳統豆花粉圓",
+        "note": "Daby",
+        "address": "新北市新莊區萬安街115號",
+        "emoji": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.4246054,
+          25.0252037
+        ]
+      },
+      "properties": {
+        "name": "原疆蔥燒羊肉飯新莊店",
+        "note": "Daby",
+        "address": "新北市新莊區民安路103號",
+        "emoji": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.4230876,
+          25.0280893
+        ]
+      },
+      "properties": {
+        "name": "鴨香煲",
+        "note": "Daby",
+        "address": "新北市新莊區民安路15號",
+        "emoji": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.425812,
+          25.0223229
+        ]
+      },
+      "properties": {
+        "name": "得到堡",
+        "note": "Daby",
+        "address": "新北市新莊區八德街15巷13號13號",
+        "emoji": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.4218013,
+          25.0271281
+        ]
+      },
+      "properties": {
+        "name": "ㄆㄤˋ蜀薯",
+        "note": "Daby",
+        "address": "新北市新莊區中正路829巷77號",
+        "emoji": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.424893,
+          25.0240499
+        ]
+      },
+      "properties": {
+        "name": "DEERMARK",
+        "note": "Neo",
+        "address": "新北市新莊區民安路172號1樓",
+        "emoji": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.4251946,
+          25.0224604
+        ]
+      },
+      "properties": {
+        "name": "初鍋趣",
+        "note": "Neo",
+        "address": "新北市新莊區八德街23號一樓",
+        "emoji": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.422928,
+          25.021834
+        ]
+      },
+      "properties": {
+        "name": "上富雜糧行",
+        "note": "Neo",
+        "address": "新北市新莊區四維路 151巷8號",
+        "emoji": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.4429998,
+          25.0365018
+        ]
+      },
+      "properties": {
+        "name": "熊大杯",
+        "note": "Neo",
+        "address": "新北市新莊區公園一路63號",
+        "emoji": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.4429988,
+          25.0363322
+        ]
+      },
+      "properties": {
+        "name": "聰明抓餅",
+        "note": "Neo",
+        "address": "新北市新莊區公園一路61號",
+        "emoji": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.425996,
+          25.022239
+        ]
+      },
+      "properties": {
+        "name": "簡晨派",
+        "note": "Money",
+        "address": "新北市新莊區成功街2號",
+        "emoji": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.4241157,
+          25.0208026
+        ]
+      },
+      "properties": {
+        "name": "爽ㄟ食堂",
+        "note": "Money",
+        "address": "新北市新莊區八德街115號",
+        "emoji": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.424078,
+          25.0212709
+        ]
+      },
+      "properties": {
+        "name": "台客水餃",
+        "note": "Money",
+        "address": "新北市新莊區八德街104號",
+        "emoji": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.4241746,
+          25.0213577
+        ]
+      },
+      "properties": {
+        "name": "圓環赤肉羹",
+        "note": "Money",
+        "address": "新北市新莊區八德街102號",
+        "emoji": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.4248094,
+          25.0223365
+        ]
+      },
+      "properties": {
+        "name": "泳興村",
+        "note": "Money",
+        "address": "新北市新莊區八德街62號",
+        "emoji": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.425511,
+          25.0229
+        ]
+      },
+      "properties": {
+        "name": "無名早餐店",
+        "note": "Money",
+        "address": "新北市新莊區八德街4號",
+        "emoji": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.4257104,
+          25.0242411
+        ]
+      },
+      "properties": {
+        "name": "佳香美而美",
+        "note": "Money",
+        "address": "新北市新莊區建安街92巷9號",
+        "emoji": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.4263716,
+          25.0245492
+        ]
+      },
+      "properties": {
+        "name": "美芳越南小吃",
+        "note": "Money",
+        "address": "新北市新莊區建安街76巷1弄2號",
+        "emoji": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.4255514,
+          25.0251152
+        ]
+      },
+      "properties": {
+        "name": "尼好活力早餐",
+        "note": "Money",
+        "address": "新北市新莊區後港一路28巷14號",
+        "emoji": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.4253642,
+          25.0261953
+        ]
+      },
+      "properties": {
+        "name": "店小二豆漿",
+        "note": "Money",
+        "address": "新北市新莊區後港一路33號",
+        "emoji": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.4282896,
+          25.0251596
+        ]
+      },
+      "properties": {
+        "name": "吉佳美早餐",
+        "note": "Money",
+        "address": "新北市新莊區建安街59號",
+        "emoji": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.4270188,
+          25.0267082
+        ]
+      },
+      "properties": {
+        "name": "滷十二滷肉飯",
+        "note": "Money",
+        "address": "新北市新莊區後港一路73號",
+        "emoji": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.426587,
+          25.0272021
+        ]
+      },
+      "properties": {
+        "name": "阿月仔麵店",
+        "note": "Money",
+        "address": "新北市新莊區建福路58號",
+        "emoji": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.4247951,
+          25.0230568
+        ]
+      },
+      "properties": {
+        "name": "傑別克",
+        "note": "Money",
+        "address": "新北市新莊區民安路188巷5號",
+        "emoji": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.4247951,
+          25.0230568
+        ]
+      },
+      "properties": {
+        "name": "手機行",
+        "note": "Money",
+        "address": "新北市新莊區民安路188巷5號",
+        "emoji": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.4233987,
+          25.0235796
+        ]
+      },
+      "properties": {
+        "name": "嘻林頑童",
+        "note": "Money",
+        "address": "新北市新莊區四維路97號",
+        "emoji": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.4212108,
+          25.0245458
+        ]
+      },
+      "properties": {
+        "name": "好記香菇肉粥滷肉飯",
+        "note": "Money",
+        "address": "新北市新莊區萬安街26號",
+        "emoji": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.4207062,
+          25.0236644
+        ]
+      },
+      "properties": {
+        "name": "美而美",
+        "note": "Money",
+        "address": "新北市新莊區萬安街60巷",
+        "emoji": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.4191081,
+          25.0234155
+        ]
+      },
+      "properties": {
+        "name": "越南小吃",
+        "note": "Money",
+        "address": "新北市新莊區裕民街85巷",
+        "emoji": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.4265894,
+          25.0215435
+        ]
+      },
+      "properties": {
+        "name": "蛋白盒子",
+        "note": "Money",
+        "address": "新北市新莊區民安西路14號",
+        "emoji": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.426053,
+          25.0223799
+        ]
+      },
+      "properties": {
+        "name": "二帥兄肉羹",
+        "note": "Money",
+        "address": "新北市新莊區民安路226號",
+        "emoji": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.426802,
+          25.0119509
+        ]
+      },
+      "properties": {
+        "name": "元品麵食館",
+        "note": "Money",
+        "address": "新北市新莊區民安西路297號",
+        "emoji": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.4266117,
+          25.0120188
+        ]
+      },
+      "properties": {
+        "name": "黃金燒臘店",
+        "note": "Money",
+        "address": "新北市新莊區民安西路291號",
+        "emoji": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.4030849,
+          25.0155113
+        ]
+      },
+      "properties": {
+        "name": "46小館",
+        "note": "Money",
+        "address": "桃園市龜山區龍興街46巷3號1樓",
+        "emoji": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.4048048,
+          25.0180696
+        ]
+      },
+      "properties": {
+        "name": "芳銘特大G排",
+        "note": "Money",
+        "address": "桃園市龜山區萬壽路一段234號",
+        "emoji": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.4250063,
+          25.0249007
+        ]
+      },
+      "properties": {
+        "name": "民安汕頭麵",
+        "note": "Judy",
+        "address": "新北市新莊區民安路105巷2弄8號",
+        "emoji": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.4233377,
+          25.0234521
+        ]
+      },
+      "properties": {
+        "name": "神雞妙蒜蒜味鹽酥雞",
+        "note": "Judy",
+        "address": "新北市新莊區四維路103號",
+        "emoji": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.4266521,
+          25.0243934
+        ]
+      },
+      "properties": {
+        "name": "熊鶴鐵板燒",
+        "note": "Judy",
+        "address": "新北市新莊區建安街74號",
+        "emoji": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.4247487,
+          25.0242478
+        ]
+      },
+      "properties": {
+        "name": "民安一路發彩券行",
+        "note": "Judy",
+        "address": "新北市新莊區民安路168號1樓",
+        "emoji": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.4260343,
+          25.0244073
+        ]
+      },
+      "properties": {
+        "name": "美人魚中西複合早餐吧",
+        "note": "Judy",
+        "address": "新北市新莊區建安街76巷1弄15號1F",
+        "emoji": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.4245863,
+          25.022993
+        ]
+      },
+      "properties": {
+        "name": "福哥意麵",
+        "note": "Judy",
+        "address": "新北市新莊區八德街58巷18弄4號",
+        "emoji": ""
+      }
+    }
+  ]
+}
